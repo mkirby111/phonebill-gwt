@@ -1,0 +1,2 @@
+serviceClass: edu.pdx.cs410J.mwk2.client.PhoneBillService
+path: 89F52BD10DDDDA98249EC6FD38B94F3B.gwt.rpc

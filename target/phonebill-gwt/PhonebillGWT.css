@@ -1,0 +1,50 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+body{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-TextArea {
+    font-family: Lucidatypewriter, monospace;
+    font-size: 105%;
+    width: 800px;
+    height: 400px;
+    border-style: none;
+    border-color: Transparent;
+    overflow: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+ .gwt-appTitleLabel {
+     font-family: Helvetica, Arial, sans-serif;
+     font-size: 2em;
+     font-weight: bolder;
+     color: #777777;
+     text-align: left;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+
+ .gwt-TabPanel-tabs {
+     width: 700px;
+     height: auto;
+     border-spacing: 5px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+
+ .gwt-appPanel {
+     margin: auto;
+     align: center;
+     width: 700px;
+     height: auto;
+ }
+
+ .gwt-textOutputPanel {
+     padding-left: 5px;
+ }
